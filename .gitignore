@@ -28,4 +28,5 @@ vendor/assets/bower_components/*
 coverage/
 
 # Ignore other configuration for IDE
-.vscode/
+/.vscode/
+/.idea/
